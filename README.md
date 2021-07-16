@@ -20,6 +20,6 @@ Antibody, Biological & Chemical Reagents, Cell Culture, Commercial Software, Equ
 ### 📚Lecture
 1. [공도리의 HTML5와 CSS3를 이용한 홈페이지 개발](https://www.inflearn.com/course/html5) 강의 진행
 
-### 🕹Study(leisurely)
+### 🕹Study(Continuously)
 1. React Native
 2. Deep learning(추천시스템 및 영상인식)
