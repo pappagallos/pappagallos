@@ -12,8 +12,8 @@ LabManager에 좋은 아이디어가 있으신 분들은 Pull Request 혹은 pap
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D"/> <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
 
 ### 🚩Project
-1. [온라인 영업 플랫폼, SELLZ](https://sellz.co.kr) 프론트엔드 개발(2020.07~), Vue2 + Javascript
-2. [작은식당 식자재 상점, 이웃삼촌](https://m.gooduncles.com) 프론트엔드 개발(2021.04~), Vue3 + Typescript + Javascript
+1. [온라인 영업 플랫폼, SELLZ](https://sellz.co.kr) 프론트엔드 개발(2020.07~) | Vue2, Javascript
+2. [작은식당 식자재 상점, 이웃삼촌](https://m.gooduncles.com) 프론트엔드 개발(2021.04~) | Vue3, Typescript, Javascript
 
 ### 📚Lecture
 1. [공도리의 HTML5와 CSS3를 이용한 홈페이지 개발](https://www.inflearn.com/course/html5) 강의 진행
