@@ -15,7 +15,7 @@ LabManager에 좋은 아이디어가 있으신 분들은 Pull Request 혹은 pap
 ### 🚩Project
 1. [온라인 영업 플랫폼, SELLZ](https://sellz.co.kr) 프론트엔드 개발(2020.07~) | Vue2, Javascript
 2. [작은식당 식자재 상점, 이웃삼촌](https://m.gooduncles.com) 프론트엔드 개발(2021.04~) | Vue3, Typescript, Javascript
-3. 착한 성분 피부지상주의 천연 기능성 화장품, ISOI(아이소이) 프론트엔드 개발(2021.07~) | React17
+3. 착한 성분 피부지상주의 천연 기능성 화장품, ISOI(아이소이) 프론트엔드 개발(2021.07~) | React17, Next11
 
 ### 📚Lecture
 1. [공도리의 HTML5와 CSS3를 이용한 홈페이지 개발](https://www.inflearn.com/course/html5) 강의 진행
