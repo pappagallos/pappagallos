@@ -1,4 +1,5 @@
 안녕하세요. 프론트엔드 개발자 이우진 입니다.🖐
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCUiLDqX0HPE0AUeieMEb2-g)](https://www.youtube.com/channel/UCUiLDqX0HPE0AUeieMEb2-g) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pappagallos@kakao.com)](mailto:pappagallos@kakao.com)
 ===========================================
 Vue.js와 React.js로 프론트엔드를 개발하고 있습니다. 그리고 Full-Stack 개발자가 되기 위해서 여유를 가지고 계속 공부하고 있어요. 😁
 
