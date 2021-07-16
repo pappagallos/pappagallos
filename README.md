@@ -18,3 +18,7 @@ LabManager에 좋은 아이디어가 있으신 분들은 Pull Request 혹은 pap
 
 ### 📚Lecture
 1. [공도리의 HTML5와 CSS3를 이용한 홈페이지 개발](https://www.inflearn.com/course/html5) 강의 진행
+
+### 🕹Study(leisurely)
+1. React Native
+2. Deep learning(추천시스템 및 영상인식)
