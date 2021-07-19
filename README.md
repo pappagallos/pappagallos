@@ -16,7 +16,7 @@ Antibody, Biological & Chemical Reagents, Cell Culture, Commercial Software, Equ
 1. [온라인 영업 플랫폼, SELLZ](https://sellz.co.kr) 프론트엔드 개발(2020.07~) | Vue2, Javascript
 2. 더존 ERP 프로젝트 회계, 물류 메뉴 개발(2021.01~2021.08) | React16(클래스형)
 3. [작은식당 식자재 상점, 이웃삼촌](https://m.gooduncles.com) 프론트엔드 개발(2021.04~) | Vue3, Typescript, Javascript
-4. 착한 성분 피부지상주의 천연 기능성 화장품, ISOI(아이소이) 프론트엔드 개발(2021.07~) | React17, Next11(함수형)
+4. 착한 성분 피부지상주의 천연 기능성 화장품, ISOI(아이소이) 프론트엔드 개발(2021.07~) | React17(함수형), Next11
 
 ### 📚Lecture
 1. [공도리의 HTML5와 CSS3를 이용한 홈페이지 개발](https://www.inflearn.com/course/html5) 강의 진행
