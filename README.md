@@ -19,7 +19,7 @@ Antibody, Biological & Chemical Reagents, Cell Culture, Commercial Software, Equ
 4. 착한 성분 피부지상주의 천연 기능성 화장품, ISOI(아이소이) 프론트엔드 개발(2021.07~) | React17(함수형), Next11
 
 ### 📚Lecture
-1. [공도리의 HTML5와 CSS3를 이용한 홈페이지 개발](https://www.inflearn.com/course/html5) 강의 진행
+1. [공도리의 HTML5와 CSS3를 이용한 홈페이지 개발](https://www.inflearn.com/course/html5) 강의 진행 
 
 ### 🕹Study(Continuously)
 1. React Native
