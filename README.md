@@ -1,7 +1,9 @@
 안녕하세요. 프론트엔드 개발자 이우진 입니다.🖐
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCUiLDqX0HPE0AUeieMEb2-g)](https://www.youtube.com/channel/UCUiLDqX0HPE0AUeieMEb2-g) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pappagallos@kakao.com)](mailto:pappagallos@kakao.com)
 ===========================================
-Vue.js와 React.js로 프론트엔드를 개발하고 있습니다. 그리고 Full-Stack 개발자가 되기 위해서 여유를 가지고 계속 공부하고 있어요. 😁
+Vue.js와 React.js로 프론트엔드를, Spring boot로 백엔드를 개발하고 있습니다. 그리고 Full-Stack 개발자가 되기 위해서 여유를 가지고 계속 공부하고 있어요. 😁
+프론트와 백엔드를 개발하면서 항상 느끼는 점은 웹에서 가장 중요한 부분은 사용자 경험이라고 생각해요. 홈페이지가 4초가 지났는데도 뜨지 않는다면 사용하지 않을 거라고 생각하거든요.
+그래서 항상 웹 최적화도 빼놓지 않고 개발하고 있습니다.
 
 바이오🔬 분야에 도움을 줄 수 있도록 Antibody, Biological & Chemical Reagents, Cell Culture, Commercial Software, Equipment & Instruments 등의 실험에 필요한 장비, 물품, 시약 등을 주문, 배송, 재고관리 등을 통합하여 관리해주는 'CareLab' 오픈소스를 기획하고 있어요.
 ERP 프로젝트를 진행하다 보니 공부 삼아 기획하고 있습니다. :)
